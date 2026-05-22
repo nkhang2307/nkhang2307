@@ -1,18 +1,13 @@
-<!-- HEADER BANNER MIDNIGHT CHILL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&height=180&text=HỒ%20NGUYÊN%20KHANG%20🌌&fontSize=50&animation=twinkling&fontColor=cdd6f4" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&height=150&text=HỒ%20NGUYÊN%20KHANG%20🌌&fontSize=45&fontColor=cdd6f4" alt="Header Banner" />
 </p>
 
-<!-- HIỆU ỨNG CHỮ CHẠY ĐẬM CHẤT VIBE -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=94E2D5&center=true&vCenter=true&width=600&lines=Hi,+I'm+Khang+(2007);A+Pure+Vibe+Coder+☕;IT+Student+at+HUIT;Coding+with+Guitar+Chords+🎸" alt="Typing SVG" />
-  </a>
-</h1>
+<h3 align="center">
+  ✨ A Pure Vibe Coder ☕ • IT Student at HUIT 🏫 • Coding with Guitar Chords 🎸 ✨
+</h3>
 
-<!-- ĐẾM LƯỢT VIEW PROFILE -->
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=nkhang2307&label=VIBING+VISITORS&color=94e2d5&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/Vibing_Visitors-nkhang2307-94e2d5?style=flat-square&logo=github" alt="Views" />
 </p>
 
 ---
@@ -56,24 +51,29 @@ Bộ công cụ đồng hành cùng mình qua những đêm thức muộn code x
 ## 📊 Thống Kê Hoạt Động (Vibe Stats)
 
 <p align="center">
-  <!-- Thống kê tổng quan tone màu tối Catppuccin Mocha -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nkhang2307&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Ngôn ngữ sử dụng nhiều nhất -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkhang2307&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Langs" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nkhang2307&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkhang2307&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <!-- Biểu đồ giữ chuỗi đóng góp (Streaks) -->
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=nkhang2307&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=nkhang2307&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🎵 Current Vibe Loop
+
+> 🎼 **Now Playing:** *Lo-fi & Guitar Chill Selection*
+> 
+> "Code chậm lại một chút để cảm nhận cái vibe..." 🌌
 
 ---
 
 ## 🤝 Kết Nối Với Mình
 
 <p align="left">
-  <a href="mailto:nkg2307@gmail.com" target="_blank">
+  <a href="mailto:Nkg2307@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/nkhang2307" target="_blank">
@@ -82,5 +82,5 @@ Bộ công cụ đồng hành cùng mình qua những đêm thức muộn code x
 </p>
 
 <p align="center">
-  <i>"Code chậm lại một chút để cảm nhận cái vibe..." 🌌 Chúc một ngày tốt lành!</i>
+  <i>Chúc bạn một ngày tốt lành và không dính Bug! 🚀</i>
 </p>
