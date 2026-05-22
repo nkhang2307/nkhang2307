@@ -51,9 +51,7 @@ Bộ công cụ đồng hành cùng mình qua những đêm thức muộn code x
 ## 📊 Thống Kê Hoạt Động (Vibe Stats)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nkhang2307&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkhang2307&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nkhang2307&theme=react-dark&bg_color=1e1e2e&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
