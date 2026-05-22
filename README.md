@@ -23,7 +23,7 @@ Chào mừng bạn đã lạc vào không gian code và chill của mình. Mình
 
 - 🎧 **Phong cách:** Đối với mình, lập trình không chỉ là logic, nó là một nghệ thuật. Một ly cà phê, một playlist nhạc Lo-fi hoặc vài giai điệu Synthwave, và chiếc Mac là đủ để mình ngồi gõ ra những dòng code mượt mà.
 - 🏫 **Học tập:** Đang tích lũy kinh nghiệm, rèn luyện tư duy thuật toán và cấu trúc dữ liệu tại giảng đường HUIT.
-- 🎸 **Năng lượng:** Cân bằng bán cầu não trái bằng các dòng code $C/C++$ logic, và giải tỏa bán cầu não phải bằng những lượt gảy đàn **Guitar** đầy ngẫu hứng. 
+- 🎸 **Năng lượng:** Cân bằng bán cầu não trái bằng các dòng code C/C++ logic, và giải tỏa bán cầu não phải bằng những lượt gảy đàn **Guitar** đầy ngẫu hứng. 
 - 💬 **Châm ngôn:** *"Hãy để dòng code tuôn chảy theo giai điệu."*
 
 ---
@@ -56,23 +56,43 @@ Bộ công cụ đồng hành cùng mình qua những đêm thức muộn code x
 ## 📊 Thống Kê Hoạt Động (Vibe Stats)
 
 <p align="center">
-  <!-- Thống kê tổng quan tone màu tối Catppuccin -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
+  <!-- Thống kê tổng quan tone màu tối Catppuccin Mocha -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nkhang2307&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Ngôn ngữ sử dụng nhiều nhất -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkhang2307&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <!-- Biểu đồ giữ chuỗi đóng góp (Streaks) -->
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=nkhang2307&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🎵 Now Playing / Vibe Loop
+## 🎵 Current Vibe Loop
 
 <p align="center">
-  <!-- Widget giả lập máy phát nhạc Lo-fi cực chill -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=catppuccin_mocha&show_owner=true" alt="Vibe" style="display:none;"/>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=dark&bar_color=94e2d5&bar_color_active=94e2d5" alt="Spotify" />
+  <!-- Card phát nhạc giả lập cực chill -->
+  <a href="https://github.com/nkhang2307">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=catppuccin_mocha&show_owner=true" alt="Vibe" style="display:none;"/>
+    <img src="https://freshrgb.com/api/card?title=Lo-fi%20%26%20Guitar%20Chill&lines=Vibing%20with%20C%2F%2BC%2B%2B%20Code...&theme=dark" alt="Vibe Card" />
+  </a>
+</p>
+
+---
+
+## 🤝 Kết Nối Với Mình
+
+<p align="left">
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/nkhang2307" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-  <i>"Code chậm lại một chút để cảm nhận cái vibe..." 🌌 Chúc bạn một ngày không dính Bug!</i>
+  <i>"Code chậm lại một chút để cảm nhận cái vibe..." 🌌 Chúc một ngày tốt lành!</i>
 </p>
