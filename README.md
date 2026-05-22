@@ -70,22 +70,10 @@ Bộ công cụ đồng hành cùng mình qua những đêm thức muộn code x
 
 ---
 
-## 🎵 Current Vibe Loop
-
-<p align="center">
-  <!-- Card phát nhạc giả lập cực chill -->
-  <a href="https://github.com/nkhang2307">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=catppuccin_mocha&show_owner=true" alt="Vibe" style="display:none;"/>
-    <img src="https://freshrgb.com/api/card?title=Lo-fi%20%26%20Guitar%20Chill&lines=Vibing%20with%20C%2F%2BC%2B%2B%20Code...&theme=dark" alt="Vibe Card" />
-  </a>
-</p>
-
----
-
 ## 🤝 Kết Nối Với Mình
 
 <p align="left">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:nkg2307@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/nkhang2307" target="_blank">
