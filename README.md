@@ -12,7 +12,7 @@
 
 <!-- ĐẾM LƯỢT VIEW PROFILE -->
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=YOUR_GITHUB_USERNAME&label=VIBING+VISITORS&color=94e2d5&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghvc/?username=nkhang2307&label=VIBING+VISITORS&color=94e2d5&style=flat-square" alt="Views" />
 </p>
 
 ---
