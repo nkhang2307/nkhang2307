@@ -1,43 +1,78 @@
-<!-- Giao diện Header hoành tráng -->
+<!-- HEADER BANNER MIDNIGHT CHILL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=TEN_DU_AN_CUA_BAN&fontSize=70&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&height=180&text=HỒ%20NGUYÊN%20KHANG%20🌌&fontSize=50&animation=twinkling&fontColor=cdd6f4" alt="Header Banner" />
+</p>
+
+<!-- HIỆU ỨNG CHỮ CHẠY ĐẬM CHẤT VIBE -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=94E2D5&center=true&vCenter=true&width=600&lines=Hi,+I'm+Khang+(2007);A+Pure+Vibe+Coder+☕;IT+Student+at+HUIT;Coding+with+Guitar+Chords+🎸" alt="Typing SVG" />
+  </a>
+</h1>
+
+<!-- ĐẾM LƯỢT VIEW PROFILE -->
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=YOUR_GITHUB_USERNAME&label=VIBING+VISITORS&color=94e2d5&style=flat-square" alt="Views" />
+</p>
+
+---
+
+## 🌌 Về Tôi (The Vibe)
+
+Chào mừng bạn đã lạc vào không gian code và chill của mình. Mình là **Hồ Nguyên Khang** (2007), một sinh viên Công nghệ thông tin tại **HUIT**, nhưng trên hết, mình là một **Vibe Coder**.
+
+- 🎧 **Phong cách:** Đối với mình, lập trình không chỉ là logic, nó là một nghệ thuật. Một ly cà phê, một playlist nhạc Lo-fi hoặc vài giai điệu Synthwave, và chiếc Mac là đủ để mình ngồi gõ ra những dòng code mượt mà.
+- 🏫 **Học tập:** Đang tích lũy kinh nghiệm, rèn luyện tư duy thuật toán và cấu trúc dữ liệu tại giảng đường HUIT.
+- 🎸 **Năng lượng:** Cân bằng bán cầu não trái bằng các dòng code $C/C++$ logic, và giải tỏa bán cầu não phải bằng những lượt gảy đàn **Guitar** đầy ngẫu hứng. 
+- 💬 **Châm ngôn:** *"Hãy để dòng code tuôn chảy theo giai điệu."*
+
+---
+
+## 🛠️ Công Nghệ & "Vũ Khí" Chill Bug
+
+Bộ công cụ đồng hành cùng mình qua những đêm thức muộn code xuyên màn đêm:
+
+### 🧠 Ngôn ngữ cốt lõi
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+### 💻 Workspace & Nghệ thuật
+<p align="left">
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
+  <img src="https://img.shields.io/badge/Guitar_Vibe-🎸-FFB6C1?style=for-the-badge" alt="Guitar" />
+</p>
+
+### 🤖 Trợ lý thông minh
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-6F42C1?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📊 Thống Kê Hoạt Động (Vibe Stats)
+
+<p align="center">
+  <!-- Thống kê tổng quan tone màu tối Catppuccin -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Ngôn ngữ sử dụng nhiều nhất -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+## 🎵 Now Playing / Vibe Loop
+
+<p align="center">
+  <!-- Widget giả lập máy phát nhạc Lo-fi cực chill -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=catppuccin_mocha&show_owner=true" alt="Vibe" style="display:none;"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=dark&bar_color=94e2d5&bar_color_active=94e2d5" alt="Spotify" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/username/repo-name?style=for-the-badge&color=fff&labelColor=000" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/username/repo-name?style=for-the-badge&color=fff&labelColor=000" alt="Forks"/>
-  <img src="https://img.shields.io/github/license/username/repo-name?style=for-the-badge&color=fff&labelColor=000" alt="License"/>
+  <i>"Code chậm lại một chút để cảm nhận cái vibe..." 🌌 Chúc bạn một ngày không dính Bug!</i>
 </p>
-
----
-
-## 🚀 Tính Năng Nổi Bật
-
-Một mô tả ngắn gọn nhưng "chất" về dự án của bạn. Dự án này giải quyết vấn đề gì? Tại sao nó lại VIP PRO?
-
-- **⚡ Siêu nhanh:** Tối ưu hóa hiệu năng đến từng miligiây.
-- **🎨 Giao diện đẹp:** Chuẩn UI/UX hiện đại, có Dark Mode thời thượng.
-- **🔒 Bảo mật cao:** Mã hóa dữ liệu đầu cuối, an toàn tuyệt đối.
-- **🤖 Tích hợp AI:** Tự động hóa các tác vụ thông minh.
-
----
-
-## 🛠️ Công Nghệ Sử Dụng
-
-Dưới đây là "vũ khí" được sử dụng trong dự án này:
-
-| Frontend | Backend | DevOps | Đang phát triển |
-| :--- | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> | <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> |
-
----
-
-## 💻 Cài Đặt và Sử Dụng
-
-Để chạy dự án này ở máy cục bộ (Local), hãy làm theo các bước sau:
-
-### 1. Clone dự án
-```bash
-git clone [https://github.com/username/repo-name.git](https://github.com/username/repo-name.git)
-cd repo-name
