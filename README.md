@@ -18,25 +18,36 @@ Chào mừng bạn đã lạc vào không gian code và chill của mình. Mình
 
 - 🎧 **Phong cách:** Đối với mình, lập trình không chỉ là logic, nó là một nghệ thuật. Một ly cà phê, một playlist nhạc Lo-fi hoặc vài giai điệu Synthwave, và chiếc Mac là đủ để mình ngồi gõ ra những dòng code mượt mà.
 - 🏫 **Học tập:** Đang tích lũy kinh nghiệm, rèn luyện tư duy thuật toán và cấu trúc dữ liệu tại giảng đường HUIT.
-- 🎸 **Năng lượng:** Cân bằng bán cầu não trái bằng các dòng code C/C++ logic, và giải tỏa bán cầu não phải bằng những lượt gảy đàn **Guitar** đầy ngẫu hứng. 
+- 🎸 **Năng lượng:** Cân bằng bán cầu não trái bằng các dòng code logic, và giải tỏa bán cầu não phải bằng những lượt gảy đàn **Guitar** đầy ngẫu hứng. 
 - 💬 **Châm ngôn:** *"Hãy để dòng code tuôn chảy theo giai điệu."*
 
 ---
 
 ## 🛠️ Công Nghệ & "Vũ Khí" Chill Bug
 
-Bộ công cụ đồng hành cùng mình qua những đêm thức muộn code xuyên màn đêm:
+Bộ công cụ và ngôn ngữ lập trình mình đang tập trung sử dụng để chinh chiến qua những đêm thức muộn code xuyên màn đêm:
 
-### 🧠 Ngôn ngữ cốt lõi
+### 🧠 Ngôn ngữ lập trình cốt lõi
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+### 🌐 Phát triển Web & Nền tảng
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
 ### 💻 Workspace & Nghệ thuật
 <p align="left">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Guitar_Vibe-🎸-FFB6C1?style=for-the-badge" alt="Guitar" />
 </p>
 
@@ -60,18 +71,10 @@ Bộ công cụ đồng hành cùng mình qua những đêm thức muộn code x
 
 ---
 
-## 🎵 Current Vibe Loop
-
-> 🎼 **Now Playing:** *Lo-fi & Guitar Chill Selection*
-> 
-> "Code chậm lại một chút để cảm nhận cái vibe..." 🌌
-
----
-
 ## 🤝 Kết Nối Với Mình
 
 <p align="left">
-  <a href="mailto:nkg2307@gmail.com" target="_blank">
+  <a href="mailto:Nkg2307@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/nkhang2307" target="_blank">
