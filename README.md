@@ -23,6 +23,20 @@ Chào mừng bạn đã lạc vào không gian code và chill của mình. Mình
 
 ---
 
+## 💻 Góc Làm Việc & Cấu Hình Máy (My Setup)
+
+Trạm không gian giúp mình hiện thực hóa các dòng code và chill nhạc:
+
+| Thiết bị / Linh kiện | Thông số chi tiết |
+| :--- | :--- |
+| **💻 Máy tính** | MacBook Pro 13-inch (Late 2020) |
+| **🧠 Vi xử lý (CPU/GPU)** | Apple M1 Chip (8-core CPU / 8-core GPU) |
+| **📟 Bộ nhớ (RAM)** | 8GB Unified Memory |
+| **💾 Lưu trữ (SSD)** | 256GB Superfast Apple Silicon SSD |
+| **🎨 Hệ điều hành** | macOS (Được tối ưu cực mượt cho lập trình) |
+
+---
+
 ## 🛠️ Công Nghệ & "Vũ Khí" Chill Bug
 
 Bộ công cụ và ngôn ngữ lập trình mình đang tập trung sử dụng để chinh chiến qua những đêm thức muộn code xuyên màn đêm:
