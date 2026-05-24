@@ -1,45 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&height=150&text=HỒ%20NGUYÊN%20KHANG%20🌌&fontSize=45&fontColor=cdd6f4" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a237e&height=150&text=HỒ%20NGUYÊN%20KHANG%20👨‍💻&fontSize=45&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <h3 align="center">
-  ✨ A Pure Vibe Coder ☕ • IT Student at HUIT 🏫 • Coding with Guitar Chords 🎸 ✨
+  🚀 IT Student at HUIT • Software Engineering Enthusiast • Guitar Hobbyist 🎸
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vibing_Visitors-nkhang2307-94e2d5?style=flat-square&logo=github" alt="Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-nkhang2307-blue?style=flat-square&logo=github" alt="Views" />
 </p>
 
 ---
 
-## 🌌 Về Tôi (The Vibe)
+## 📌 Giới thiệu bản thân
 
-Chào mừng bạn đã lạc vào không gian code và chill của mình. Mình là **Hồ Nguyên Khang** (2007), một sinh viên Công nghệ thông tin tại **HUIT**, nhưng trên hết, mình là một **Vibe Coder**.
+Xin chào, mình là **Hồ Nguyên Khang** (Sinh năm 2007). Hiện tại đang là sinh viên chuyên ngành **Công nghệ thông tin** tại **Trường Đại học Công Thương TP.HCM (HUIT)**. 
 
-- 🎧 **Phong cách:** Đối với mình, lập trình không chỉ là logic, nó là một nghệ thuật. Một ly cà phê, một playlist nhạc Lo-fi hoặc vài giai điệu Synthwave, và chiếc Mac là đủ để mình ngồi gõ ra những dòng code mượt mà.
-- 🏫 **Học tập:** Đang tích lũy kinh nghiệm, rèn luyện tư duy thuật toán và cấu trúc dữ liệu tại giảng đường HUIT.
-- 🎸 **Năng lượng:** Cân bằng bán cầu não trái bằng các dòng code logic, và giải tỏa bán cầu não phải bằng những lượt gảy đàn **Guitar** đầy ngẫu hứng. 
-- 💬 **Châm ngôn:** *"Hãy để dòng code tuôn chảy theo giai điệu."*
+Là một người đam mê công nghệ và có định hướng phát triển nghiêm túc trong lĩnh vực phần mềm, mình luôn cố gắng trau dồi tư duy giải thuật và kỹ năng thực hành mỗi ngày. Bên cạnh việc lập trình, mình chọn chơi **Guitar** như một sở thích lành mạnh để rèn luyện tính kiên nhẫn và cân bằng cuộc sống.
+
+* 🏫 **Học tập:** Khoa Công nghệ thông tin - Đại học Công Thương TP.HCM (HUIT).
+* 🎯 **Mục tiêu:** Nắm vững kiến thức nền tảng về khoa học máy tính, thực hành qua các dự án thực tế và hướng tới vị trí Kỹ sư phần mềm chuyên nghiệp.
+* 🛠️ **Phương châm làm việc:** Lập trình bài bản, tư duy logic và không ngừng học hỏi công nghệ mới.
 
 ---
 
-## 💻 Góc Làm Việc & Cấu Hình Máy (My Setup)
+## 💻 Cấu hình thiết bị cá nhân (Hardware Specs)
 
-Trạm không gian giúp mình hiện thực hóa các dòng code và chill nhạc:
+Hệ thống phần cứng phục vụ học tập và phát triển phần mềm:
 
 | Thiết bị / Linh kiện | Thông số chi tiết |
 | :--- | :--- |
 | **💻 Máy tính** | MacBook Pro 13-inch (Late 2020) |
-| **🧠 Vi xử lý (CPU/GPU)** | Apple M1 Chip (8-core CPU / 8-core GPU) |
+| **🧠 Vi xử lý** | Apple M1 Chip (8-core CPU / 8-core GPU) |
 | **📟 Bộ nhớ (RAM)** | 8GB Unified Memory |
 | **💾 Lưu trữ (SSD)** | 256GB Superfast Apple Silicon SSD |
-| **🎨 Hệ điều hành** | macOS (Được tối ưu cực mượt cho lập trình) |
+| **🎨 Hệ điều hành** | macOS (Tối ưu hóa cho môi trường lập trình) |
 
 ---
 
-## 🛠️ Công Nghệ & "Vũ Khí" Chill Bug
+## 🛠️ Kỹ năng & Công cụ công nghệ (Tech Stack)
 
-Bộ công cụ và ngôn ngữ lập trình mình đang tập trung sử dụng để chinh chiến qua những đêm thức muộn code xuyên màn đêm:
+Bộ công cụ và các ngôn ngữ lập trình mình đang tập trung nghiên cứu và sử dụng:
 
 ### 🧠 Ngôn ngữ lập trình cốt lõi
 <p align="left">
@@ -57,15 +58,14 @@ Bộ công cụ và ngôn ngữ lập trình mình đang tập trung sử dụng
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-### 💻 Workspace & Nghệ thuật
+### 💻 Môi trường phát triển (Workspace)
 <p align="left">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Guitar_Vibe-🎸-FFB6C1?style=for-the-badge" alt="Guitar" />
 </p>
 
-### 🤖 Trợ lý thông minh
+### 🤖 Công cụ quản lý & Trợ lý
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub_Copilot-6F42C1?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -73,7 +73,7 @@ Bộ công cụ và ngôn ngữ lập trình mình đang tập trung sử dụng
 
 ---
 
-## 📊 Thống Kê Hoạt Động (Vibe Stats)
+## 📊 Thống kê hoạt động GitHub
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nkhang2307&theme=react-dark&bg_color=1e1e2e&hide_border=true" alt="Activity Graph" />
@@ -85,7 +85,7 @@ Bộ công cụ và ngôn ngữ lập trình mình đang tập trung sử dụng
 
 ---
 
-## 🤝 Kết Nối Với Mình
+## 🤝 Kết nối với mình
 
 <p align="left">
   <a href="mailto:Nkg2307@gmail.com" target="_blank">
@@ -97,5 +97,5 @@ Bộ công cụ và ngôn ngữ lập trình mình đang tập trung sử dụng
 </p>
 
 <p align="center">
-  <i>Chúc bạn một ngày tốt lành và không dính Bug! 🚀</i>
+  <i>Cảm ơn bạn đã ghé thăm không gian làm việc của mình! Hẹn gặp lại trong các dự án tương lai. 🚀</i>
 </p>
