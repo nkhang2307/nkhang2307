@@ -88,7 +88,7 @@ Bộ công cụ và các ngôn ngữ lập trình mình đang tập trung nghiê
 ## 🤝 Kết nối với mình
 
 <p align="left">
-  <a href="mailto:Nkg2307@gmail.com" target="_blank">
+  <a href="mailto:nkg2307@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/nkhang2307" target="_blank">
